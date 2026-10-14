@@ -1,7 +1,5 @@
 import random
 import copy
-import numpy as np
-import time
 from fractions import Fraction
 
 def random_(a, b):
